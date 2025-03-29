@@ -23,23 +23,22 @@ This project analyzes platform performance and user behavior over the past year 
 - **Growth Spikes:** May (16.24%), September (20.07%), November (23.90%)  
 
 ### ✅ **Content Library**  
-- **Total Content:** JotStar (2,360) > LioCinema (1,250)  
-- **Content Focus:** LioCinema (Movies – 72%), JotStar (Series – 35%, Sports – 15%)  
+- **Total Content:** JotStar (2360) > LioCinema (1250)  
+- **Content Focus:** LioCinema (Movies – 72%), JotStar (Series – 35%, Sports – 15%, Movie-50%)  
 
 ### ✅ **Subscriber Insights**  
-- **Age Groups:** LioCinema – 18-24 (43.51%), JotStar – 25-34 (44.98%)  
-- **City Tier:** LioCinema – Tier 3 (42.84%), JotStar – Tier 1 (57.04%)  
+- **Age Groups:** LioCinema has a significantly larger proportion of users in the 18-24 age group (43.51%). Where, JotStar has the largest segment being 25-34 (44.98%).
+- **City Tier:** LioCinema's user base is more concentrated in Tier 3 (42.84%), while JotStar's user base is predominantly in Tier 1 (57.04%).
 - **Subscription Plans:**  
-   - JotStar – VIP (42.93%), Premium (29.96%)  
-   - LioCinema – Free (57.23%), Basic (24.75%)  
-
+JotStar's user base is primarily on the VIP (42.93%) and Premium (29.96%) plans, indicating a potential focus on paid user acquisition strategies. However, for LioCinema, most of the users are free (57.23%).
+ 
 ### ✅ **Inactivity and Engagement**  
 - **Active Users:** JotStar (87.49%) > LioCinema (60.59%)  
 - **High Inactivity:** LioCinema Free Tier (50.06%)  
 - **Average Watch Time:** JotStar (351.72 hrs) > LioCinema (60.14 hrs)  
 
 ### ✅ **Upgrade and Downgrade Behavior**  
-- **Downgrade Rates:** LioCinema (4.99%–9.12%), JotStar (0.72%–1.38%)  
+- **Downgrade Rates:** LioCinema (4.99%–9.12%), JotStar (0.72%–1.38%) throughout the time period.
 - **Most Common Upgrade:**  
    - LioCinema – Free → Basic (1.40K)  
    - JotStar – VIP → Premium (2.62K)  
@@ -51,7 +50,7 @@ This project analyzes platform performance and user behavior over the past year 
 ---
 
 ## 💡 Key Learnings  
-✅ High churn rate on free plans signals weak content retention.  
+✅ High inactive rate on free plans signals weak content retention.  
 ✅ JotStar drives higher revenue but is showing signs of decline.  
 ✅ Younger audience skews toward LioCinema; older audience prefers JotStar.  
 ✅ Tier 1 cities are more profitable due to higher paid user rates.  
@@ -59,11 +58,10 @@ This project analyzes platform performance and user behavior over the past year 
 ---
 
 ## 🛠️ Technical Skills Used  
-- **Power BI** – Data visualization, KPI tracking, and trend analysis  
-- **SQL** – Data extraction, transformation, and cleaning  
+- **Power BI** – Data preparation, visualization, and trend analysis  
+- **SQL** – Ad-Hoc Question Analysis
 - **DAX (Data Analysis Expressions)** – Custom measures and calculated fields  
-- **Data Modeling** – Creating relationships between fact and dimension tables  
-- **Trend Analysis** – Growth, inactivity, user behavior  
+- **Data Modeling** – Creating relationships between fact and dimension tables
 
 ---
 
@@ -71,7 +69,8 @@ This project analyzes platform performance and user behavior over the past year 
 ### 🔹 **Engagement Strategies**  
 - Personalized recommendations using AI and machine learning  
 - Push notifications for low-activity users  
-- Introduce gamification features to increase session time  
+- Introduce ad-supported premium content for free users.
+  
 
 ### 🔹 **Content Strategy**  
 - Increase regional content, especially in South Indian languages  
@@ -81,8 +80,9 @@ This project analyzes platform performance and user behavior over the past year 
 ### 🔹 **Pricing Strategy**  
 - Introduce a **3-tier plan** for better user segmentation:  
    - Basic: ₹99  
-   - VIP: ₹199  
-   - Premium: ₹349  
+   - VIP: ₹179  
+   - Premium: ₹249
+   - Family: ₹399
 - Bundle with telecom plans for increased subscriber acquisition  
 
 ### 🔹 **Partnerships**  
