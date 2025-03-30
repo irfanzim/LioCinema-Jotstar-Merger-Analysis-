@@ -99,7 +99,7 @@ JotStar's user base is primarily on the VIP (42.93%) and Premium (29.96%) plans,
 - Use ML to optimize content suggestions based on watch history  
 
 ##  Dashboard Link  
-https://encr.pw/Wez2F
+https://tinyurl.com/42k4z37c
 
 
 ![image](https://github.com/user-attachments/assets/57f3534d-8b3a-4d22-bd92-cdf01b7f992c)
