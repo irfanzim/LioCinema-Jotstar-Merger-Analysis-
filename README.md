@@ -38,10 +38,13 @@ JotStar's user base is primarily on the VIP (42.93%) and Premium (29.96%) plans,
 - **Average Watch Time:** JotStar (351.72 hrs) > LioCinema (60.14 hrs)  
 
 ### ✅ **Upgrade and Downgrade Behavior**  
-- **Downgrade Rates:** LioCinema (4.99%–9.12%), JotStar (0.72%–1.38%) throughout the time period.
+- **Downgrade Rates:** LioCinema (1.87%–3.69%), JotStar (0.52%–1%) throughout the time period.
 - **Most Common Upgrade:**  
    - LioCinema – Free → Basic (1.40K)  
-   - JotStar – VIP → Premium (2.62K)  
+   - JotStar – VIP → Premium (2.62K)
+ - **Most Common Downgrade:**  
+   - LioCinema – Basic → Free (8.77K)  
+   - JotStar – VIP → Free (1.64K)
 
 ### ✅ **Revenue**  
 - **Total Revenue:** ₹66.05M (LioCinema – ₹18.91M, JotStar – ₹47.14M)  
@@ -51,17 +54,18 @@ JotStar's user base is primarily on the VIP (42.93%) and Premium (29.96%) plans,
 
 ## 💡 Key Learnings  
 ✅ High inactive rate on free plans signals weak content retention.  
-✅ JotStar drives higher revenue but is showing signs of decline.  
+✅ JotStar drives higher revenue than LioCinema.  
 ✅ Younger audience skews toward LioCinema; older audience prefers JotStar.  
 ✅ Tier 1 cities are more profitable due to higher paid user rates.  
+✅ Both platforms are primarily consumed on mobile devices.
+
 
 ---
 
 ## 🛠️ Technical Skills Used  
-- **Power BI** – Data preparation, visualization, and trend analysis  
+- **Power BI** – Data preparation, Modeling, visualization, and trend analysis  
 - **SQL** – Ad-Hoc Question Analysis
 - **DAX (Data Analysis Expressions)** – Custom measures and calculated fields  
-- **Data Modeling** – Creating relationships between fact and dimension tables
 
 ---
 
@@ -95,11 +99,3 @@ JotStar's user base is primarily on the VIP (42.93%) and Premium (29.96%) plans,
 - Use ML to optimize content suggestions based on watch history  
 
 ---
-
-## 📂 Folder Structure  
-```plaintext
-├── 📁 Data                  # Sample data files
-├── 📁 Reports               # Power BI Reports
-├── 📁 SQL                  # SQL Queries
-├── 📄 README.md            # Project Documentation
-└── 📄 Project_Insights.pdf # PDF Report of Key Insights
