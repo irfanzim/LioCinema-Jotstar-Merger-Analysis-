@@ -83,10 +83,9 @@ JotStar's user base is primarily on the VIP (42.93%) and Premium (29.96%) plans,
 
 ### 🔹 **Pricing Strategy**  
 - Introduce a **3-tier plan** for better user segmentation:  
-   - Basic: ₹99  
-   - VIP: ₹179  
-   - Premium: ₹249
-   - Family: ₹399
+   - Mobile: ₹99, yearly ₹999 (Save ₹189)
+   - Basic: ₹149, yearly ₹1499 (Save ₹289)
+   - Premium: ₹399, yearly ₹2999 (Save ₹1789)
 - Bundle with telecom plans for increased subscriber acquisition  
 
 ### 🔹 **Partnerships**  
