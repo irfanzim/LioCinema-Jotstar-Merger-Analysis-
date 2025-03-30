@@ -100,3 +100,16 @@ JotStar's user base is primarily on the VIP (42.93%) and Premium (29.96%) plans,
 
 ##  Dashboard Link  
 https://encr.pw/Wez2F
+
+
+![image](https://github.com/user-attachments/assets/57f3534d-8b3a-4d22-bd92-cdf01b7f992c)
+![image](https://github.com/user-attachments/assets/dcafeacc-28a1-4d7e-af2d-cb2b6df18b9c)
+![image](https://github.com/user-attachments/assets/4dcc312a-5964-418f-bcc6-3fd8d5471306)
+![image](https://github.com/user-attachments/assets/ff54a3af-19fc-4610-a653-d30e924a5fc5)
+![image](https://github.com/user-attachments/assets/106d2f7f-fc16-410f-af19-70ecac05b2d4)
+![image](https://github.com/user-attachments/assets/389e4e83-6db5-4fbc-b8b6-35ad4c269b62)
+
+
+
+
+
