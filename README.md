@@ -48,7 +48,7 @@ JotStar's user base is primarily on the VIP (42.93%) and Premium (29.96%) plans,
 
 ### ✅ **Revenue**  
 - **Total Revenue:** ₹66.05M (LioCinema – ₹18.91M, JotStar – ₹47.14M)  
-- **Trend:** JotStar drives most revenue; LioCinema surpasses JotStar in October and November  
+- **Trend:** JotStar drives most revenue;
 
 ---
 
