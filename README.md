@@ -6,6 +6,8 @@ Lio, a leading telecommunications provider in India, is planning a strategic mer
 
 This project analyzes platform performance and user behavior over the past year (January–November 2024) to provide actionable insights for the merger strategy.  
 
+**Project Details**: https://codebasics.io/challenge/codebasics-resume-project-challenge:  (challenge #14)
+
 ---
 
 ## 🎯 Project Objectives  
